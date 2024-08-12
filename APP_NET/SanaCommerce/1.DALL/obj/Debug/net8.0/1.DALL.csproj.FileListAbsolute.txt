@@ -1,0 +1,14 @@
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\bin\Debug\net8.0\1.DALL.deps.json
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\bin\Debug\net8.0\1.DALL.runtimeconfig.json
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\bin\Debug\net8.0\1.DALL.dll
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\bin\Debug\net8.0\1.DALL.pdb
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\obj\Debug\net8.0\1.DALL.csproj.AssemblyReference.cache
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\obj\Debug\net8.0\1.DALL.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\obj\Debug\net8.0\1.DALL.AssemblyInfoInputs.cache
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\obj\Debug\net8.0\1.DALL.AssemblyInfo.cs
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\obj\Debug\net8.0\1.DALL.csproj.CoreCompileInputs.cache
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\obj\Debug\net8.0\1.DALL.dll
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\obj\Debug\net8.0\refint\1.DALL.dll
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\obj\Debug\net8.0\1.DALL.pdb
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\obj\Debug\net8.0\1.DALL.genruntimeconfig.cache
+D:\JAVIER\OneDrive-Nergalum\OneDrive\NERGALUM\Estudios\NET\Pruebas tecnicas\SANA\APP_NET\SanaCommerce\1.DALL\obj\Debug\net8.0\ref\1.DALL.dll
