@@ -12,7 +12,7 @@ namespace Sana_API.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "Hola UD por tercera vez!!!", "value2" };
+            return new string[] { "Hola UD por cuarta vez!!!", "value2" };
         }
 
         // GET api/<HiYouController>/5
